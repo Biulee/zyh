@@ -5,4 +5,6 @@ return [
 	'dbname'   => 'c89' ,//数据库名
 	'user' => 'root' ,//数据库用户名
 	'password' => 'root' ,//数据库密码
+
+	'charset' =>'utf8',//数据库字符集
 ];
