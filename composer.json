@@ -1,0 +1,22 @@
+{
+    "name": "biulee/zyh",
+    "description": "c89zyh",
+    "type": "project",
+    "authors": [
+        {
+            "name": "bbh",
+            "email": "1508722216@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "houdunwang\\":"houdunwang\\",
+            "app\\":"app\\"
+        }
+    }
+}
